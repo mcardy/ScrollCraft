@@ -1,7 +1,14 @@
 [
 {
+  "modid": "scrollcraft",
+  "name": "scrollcraft",
+  "description": "Adds a variety of scrolls that allow the casting of spells",
   "version": "${version}",
   "mcversion": "${mcversion}",
+  "url": "http://mcardy.com/scrollcraft",
+  "updateUrl": "http://mcardy.com/scrollcraft/update.json",
+  "authorList": ["minnymin3"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
