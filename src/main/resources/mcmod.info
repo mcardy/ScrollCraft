@@ -1,0 +1,9 @@
+[
+{
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
